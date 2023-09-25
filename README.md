@@ -9,6 +9,7 @@
      
      1. iTunes Direct Download Links:
 Windows 64-bit: https://www.apple.com/itunes/download/win64
+
 Windows 32-bit: https://www.apple.com/itunes/download/win32
      
      
