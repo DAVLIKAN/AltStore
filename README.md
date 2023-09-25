@@ -1,2 +1,2 @@
 # AltStore
-Install AltStore
+Установка стороних приложений через  AltStore!!!!
