@@ -1,0 +1,2 @@
+# AltStore
+Install AltStore
